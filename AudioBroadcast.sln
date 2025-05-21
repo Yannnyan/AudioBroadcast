@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioBroadcast", "AudioBroadcast\AudioBroadcast.csproj", "{EAC1DE27-7B47-4CF1-A234-54C712BD12C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientAudioReciever", "ClientAudioReciever\ClientAudioReciever.csproj", "{C94930BE-EC9D-4060-923A-DE84FF5BBF97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC1DE27-7B47-4CF1-A234-54C712BD12C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC1DE27-7B47-4CF1-A234-54C712BD12C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC1DE27-7B47-4CF1-A234-54C712BD12C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC1DE27-7B47-4CF1-A234-54C712BD12C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94930BE-EC9D-4060-923A-DE84FF5BBF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94930BE-EC9D-4060-923A-DE84FF5BBF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94930BE-EC9D-4060-923A-DE84FF5BBF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94930BE-EC9D-4060-923A-DE84FF5BBF97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {951F4C99-4479-466F-8926-E5939A4B6B85}
+	EndGlobalSection
+EndGlobal
